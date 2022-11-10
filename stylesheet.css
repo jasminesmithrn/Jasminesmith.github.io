@@ -178,7 +178,12 @@ body, html {
    font-size:  65px;
 
 }
-
+#info22{
+  padding: 10px; 
+  width: 500px;
+  resize: both;
+  overflow: auto;
+}
 .img1{
     float: right;
     padding-top: 2em;
