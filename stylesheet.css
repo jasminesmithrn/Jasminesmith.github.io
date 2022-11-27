@@ -129,6 +129,14 @@ body, html {
     
     
     }
+
+.bio{
+margin: 19px;
+    float: left
+    text-align: center;
+    color: white;
+}
+
 /* column styling*/
 .column {
     float: left;
@@ -189,12 +197,6 @@ body, html {
     padding-top: 2em;
 }
 
-
-.bio{
-margin: 20px;
-    text-align: center;
-    color: white;
-}
 
 footer{
     background-color: #292c2e;
